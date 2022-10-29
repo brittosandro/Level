@@ -9,23 +9,23 @@ As energias rovibracionais que pretendemos calcular são utilizadas no
 seguinte sistema de equações:
 
 $$
-\omega{e}\gamma{e} = \frac{1}{6}\left[3(\epsilon_{1,0} - \epsilon_{0,0}) - 3(\epsilon_{2,0} - \epsilon_{0,0}) + 1(\epsilon_{3,0} - \epsilon_{0,0}) \right]
+\omega_{e}\gamma_{e} = \frac{1}{6}\left[3(\epsilon_{1,0} - \epsilon_{0,0}) - 3(\epsilon_{2,0} - \epsilon_{0,0}) + 1(\epsilon_{3,0} - \epsilon_{0,0}) \right]
 $$ 
 
 $$
-\omega{e}x{e} = \frac{1}{4}\left[13(\epsilon_{1,0} - \epsilon_{0,0}) - 11(\epsilon_{2,0} - \epsilon_{0,0}) + 3(\epsilon_{3,0} - \epsilon_{0,0}) \right]
+\omega_{e}x_{e} = \frac{1}{4}\left[13(\epsilon_{1,0} - \epsilon_{0,0}) - 11(\epsilon_{2,0} - \epsilon_{0,0}) + 3(\epsilon_{3,0} - \epsilon_{0,0}) \right]
 $$ 
 
 $$
-\omega{e} = \frac{1}{24}\left[141(\epsilon_{1,0} - \epsilon_{0,0}) - 93(\epsilon_{2,0} - \epsilon_{0,0}) + 23(\epsilon_{3,0} - \epsilon_{0,0}) \right]
+\omega_{e} = \frac{1}{24}\left[141(\epsilon_{1,0} - \epsilon_{0,0}) - 93(\epsilon_{2,0} - \epsilon_{0,0}) + 23(\epsilon_{3,0} - \epsilon_{0,0}) \right]
 $$ 
 
 $$
-\alpha{e} = \frac{1}{8}\left[-12(\epsilon_{1,1} - \epsilon_{0,1}) - 4(\epsilon_{2,1} - \epsilon_{0,1}) + 4\omega{e} - 23\omega{e}\gamma{e} \right]
+\alpha_{e} = \frac{1}{8}\left[-12(\epsilon_{1,1} - \epsilon_{0,1}) - 4(\epsilon_{2,1} - \epsilon_{0,1}) + 4\omega_{e} - 23\omega_{e}\gamma_{e} \right]
 $$ 
 
 $$
-\gamma{e} = \frac{1}{4}\left[-2(\epsilon_{1,1} - \epsilon_{0,1}) + (\epsilon_{2,1} - \epsilon_{0,1}) + 2\omega{e}x{e} - 9\omega{e}\gamma{e} \right]
+\gamma_{e} = \frac{1}{4}\left[-2(\epsilon_{1,1} - \epsilon_{0,1}) + (\epsilon_{2,1} - \epsilon_{0,1}) + 2\omega_{e}x_{e} - 9\omega_{e}\gamma_{e} \right]
 $$ 
 
 #### O script
