@@ -18,7 +18,7 @@ potenciais de Ridberg em grau 6 e Inproved Lenard-Jones.
 ### Ridberg 6
 
 $$
-  V_{Ryd}(R) = -D_{e}\Big[1 + \sum_{i=1}^{6}c_{i}(R-R_{e})^{i}\Big]e^{-c_{1}(R-R_{e})}
+  V_{Ryd}(R) = -D_{e}\BIG[1 + \sum_{i=1}^{6}c_{i}(R-R_{e})^{i}\BIG]e^{-c_{1}(R-R_{e})}
 $$
 
 
