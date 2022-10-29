@@ -21,11 +21,11 @@ $$
 $$ 
 
 $$
-\alfa{e} = \frac{1}{8}\left[-12(\epsilon_{1,1} - \epsilon_{0,1}) - 4(\epsilon_{2,1} - \epsilon_{0,1}) + 4\omega{e} - 23\omega{e}\gamma{e} \right]
+\alpha{e} = \frac{1}{8}\left[-12(\epsilon_{1,1} - \epsilon_{0,1}) - 4(\epsilon_{2,1} - \epsilon_{0,1}) + 4\omega{e} - 23\omega{e}\gamma{e} \right]
 $$ 
 
 $$
-\gama{e} = \frac{1}{4}\left[-2(\epsilon_{1,1} - \epsilon_{0,1}) + (\epsilon_{2,1} - \epsilon_{0,1}) + 2\omega{e}\x{e} - 9\omega{e}\gamma{e} \right]
+\gamma{e} = \frac{1}{4}\left[-2(\epsilon_{1,1} - \epsilon_{0,1}) + (\epsilon_{2,1} - \epsilon_{0,1}) + 2\omega{e}x{e} - 9\omega{e}\gamma{e} \right]
 $$ 
 
 #### O script
