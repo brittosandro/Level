@@ -4,8 +4,8 @@ Repositório armazena scripts para extração e processamento de dados
 associados ao programa LEVEL16.
 
 - O programa LEVEL16 foi escrito pelo professor Robert J. Le Roy.
-O título de seu artigo é: **A computer program for solving the
-radial Schrodinger equation for bound and quasebounds levels.** 
+O título de seu artigo é: *A computer program for solving the
+radial Schrodinger equation for bound and quasebounds levels.* 
 
 - O programa resolve a equação de Schrodinger radial unidimencional, 
 localiza automaticamente todos on níveis ligados ou quase ligados

@@ -1,0 +1,10 @@
+-1 0  -1 0   0   1                   % IAN1 IMN1 IAN2 IMN2 CHARGE NUMPOT
+ 'Me' 32.0419D0                      % NAME1 MASS1
+ 'Ar' 39.948D0                       % NAME2 MASS2
+'Me - Ar Caso1: Usando Rydberg(1, 6) get all vib. levels'
+ 0.0006d0   2  80.  1.d-6           % RH RMIN RMAX EPS
+ 0  -1  0  0.D0                       % NTP LPPOT IOMEG VLIM 
+ 1  1  6  0  0  0                    % IPOTL PPAR QPAR APSE Nbeta IBOB
+128.3637179903195 3.68516477  3.68516477      % DSCM REQ Rref
+-999  1  0  -1  0 1  -1 0           % NLEV1 AUTO1 LCDC LXPCT NJM JDJR IWR LPRWF
+ 0 0                                 % IV(1) IJ(1)
