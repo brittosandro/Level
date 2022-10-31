@@ -1,12 +1,13 @@
 # Constantes Espectroscópicas
 
 Neste retositório utilizamos o programa LEVEL16 para resolver a equação
-de Schrodinger nuclear e calcular um conjunto de autovalores de interece,
-uma vez que temos como objetivo calcular as constantes espectróscopicas
-de um sistema formados por duas moléculas.
+de Schrodinger nuclear e calcular um conjunto de autovalores de interec.
+Uma vez que temos como tais energias podemos calcular as constantes espectróscopicas
+de um sistema diatômico.
 
-As energias rovibracionais que pretendemos calcular são utilizadas no 
-seguinte sistema de equações:
+As energias rovibracionais são então utilizadas para calcularmos as 
+seguintes constantes espectroscópicas $\omega_{e}\gamma_{e}$, $\omega_{e}x_{e}$,
+$\omega_{e}$, $\alpha_{e}$ e $\gamma_{e}$ pelo sistema de equações:
 
 $$
 \omega_{e}\gamma_{e} = \frac{1}{6}\left[3(\epsilon_{1,0} - \epsilon_{0,0}) - 3(\epsilon_{2,0} - \epsilon_{0,0}) + 1(\epsilon_{3,0} - \epsilon_{0,0}) \right]
