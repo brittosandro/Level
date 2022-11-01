@@ -82,19 +82,19 @@ def weye(en00, en10, en20, en30):
     a = 3 * (en10 - en00)
     b = 3 * (en20 - en00)
     c = en30 - en00
-    return round(1/6 * (a - b + c), 4)
+    return round(1/6 * (a - b + c), 6)
 
 def wexe(en00, en10, en20, en30):
     a = 13 * (en10 - en00)
     b = 11 * (en20 - en00)
     c = 3 * (en30 - en00)
-    return round(1/4 * (a - b + c), 4)
+    return round(1/4 * (a - b + c), 6)
 
 def we(en00, en10, en20, en30):
     a = 141 * (en10 - en00)
     b = 93 * (en20 - en00)
     c = 23 * (en30 - en00)
-    return round(1/24 * (a - b + c), 4)
+    return round(1/24 * (a - b + c), 6)
 
 def ye(en01, en11, en21, wexe, weye):
     a = 2 * (en11 - en01)
@@ -108,7 +108,7 @@ def alfa_e(en01, en11, en21, we, weye):
     b = 4 * (en21 - en01)
     c = 4 * we
     d = 23 * weye
-    return round(1/8 * (-a + b + c - d), 4)
+    return round(1/8 * (-a + b + c - d), 6)
 
 weye = weye(float(en00), float(en10), float(en20), float(en30))
 wexe = wexe(float(en00), float(en10), float(en20), float(en30))
