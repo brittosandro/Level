@@ -17,7 +17,7 @@ de distorção centrífuga. Entre outras funcionalidades.
 - Foram realizadas algumas modificações no código. Inserimos os
 potenciais de Ridberg em grau 6 e Improved Lennard–Jones.
 
-### Ridberg 6
+### Rydberg 6
 
 $$
   V_{Ryd}(R) = -D_{e}\left[1 + \sum_{i=1}^{6}c_{i}(R-R_{e})^{i}\right]e^{-c_{1}(R-R_{e})}
