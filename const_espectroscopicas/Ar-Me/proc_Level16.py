@@ -101,7 +101,7 @@ def ye(en01, en11, en21, wexe, weye):
     b = en21 - en01
     c = 2 * wexe
     d = 9 * weye
-    return round(1/4 * (-a + b + c - d), 4)
+    return round(1/4 * (-a + b + c - d), 6)
 
 def alfa_e(en01, en11, en21, we, weye):
     a = 12 * (en11 - en01)
