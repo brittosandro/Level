@@ -36,7 +36,7 @@ as energias rovibracionais $\epsilon_{\nu, J}$ para os estados J0 e J1. Utilizan
 esses dados para o cálculos das constantes espectroscópicas listadas acima.
 
 Para que o script execute essas tarefas é necessário ter os inputs do LEVEL16 no 
-diretório corrente que devem conter necessariamente os nomes */J0.txt e *J1.txt,
+diretório corrente. Os nomes dos inputs devem ser da forma: *J0.txt e *J1.txt,
 por exemplo inputJ0.txt e inputJ1.txt. O programa fortran *.f deve ter as constantes c1, c2, c3, c4, c5, c6, 
 alteradas se o potencial Ridberg 6 for utilizado, se caso o potencial for o 
 IMPROVED LENNARD-JONES deve ser adicionado o valor de $\beta$.  
