@@ -1,9 +1,9 @@
 # Constantes Espectroscópicas
 
 Neste retositório utilizamos o programa LEVEL16 para resolver a equação
-de Schrodinger nuclear e calcular um conjunto de autovalores de interec.
-Uma vez que temos como tais energias podemos calcular as constantes espectróscopicas
-de um sistema diatômico.
+de Schrodinger nuclear e calcular um conjunto de autovalores de interece.
+Com as energias calculadas ($\epsilon$) podemos calcular as constantes espectróscopicas
+de um sistema diatômico ou psudodiatômico.
 
 As energias rovibracionais são então utilizadas para calcularmos as 
 seguintes constantes espectroscópicas $\omega_{e}\gamma_{e}$, $\omega_{e}x_{e}$,
